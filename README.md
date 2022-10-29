@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KON-R4D
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Interesting UI's
+- 👀 I’m interested in Django Development
+- 🌱 I’m currently learning blockchain programming w/ py
+- 💞️ I’m looking to collaborate on Interesting projects
 - 📫 How to reach me conrad.a@cybergrains.org
 
 <!---
