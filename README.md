@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&pause=1000&width=435&lines=Hi%2C+my+name+is+Conrad.;I'm+a+technical+product+manager;with+a+Computer+Science+background;and+years+of+experience+in+programing;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Conrad Amai.
 - 👀 I’m interested in Web Development w/ the Django Framework.
 - 🌱 I’m currently learning blockchain programming w/ py and A.I Engineering.
