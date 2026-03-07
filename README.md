@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai)](https://skillicons.dev)
 
-<h2> &#128236;&#127997; Recent Commits:</h2>
+<h2> &#128236; Recent Commits:</h2>
 
 ![Conrad's Recent Contributions](https://github.pumbas.net/api/contributions/KON-R4D)
 
