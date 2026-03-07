@@ -2,13 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&pause=1000&width=435&lines=Hi%2C+my+name+is+Conrad+Amai.;I'm+a+Technical+Product+Manager;with+a+Computer+Science+background;and+years+of+experience+in+programing.;Welcome+to+my+Github+profile...!!!)](https://git.io/typing-svg)
 
-<h2>Skills:</h2>
+<h2>Programming:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,vscode,html,htmx,css,bootstrap,tailwind,js,express,nodejs,react,vercel,r,py,sklearn,django,flask,fastapi,postman,sqlite,postgres,mysql,supabase,mongodb,graphql,git,github,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,vscode,html,htmx,css,bootstrap,tailwind,js,express,nodejs,react,vercel,r,py,sklearn,tensorflow,django,flask,fastapi,postman,sqlite,postgres,mysql,supabase,mongodb,graphql,git,github,replit)](https://skillicons.dev)
 
-<h2>Reachout:</h2>
+<h2>Design:</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/conrad-amai">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:tyanconrad@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 
 <!---
