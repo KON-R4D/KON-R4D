@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KON-R4D
-- 👀 I’m interested in Web Development w/ the Django Framework
-- 🌱 I’m currently learning blockchain programming w/ py
-- 💞️ I’m looking to collaborate on Interesting projects
+- 👋 Hi, I’m Conrad Amai.
+- 👀 I’m interested in Web Development w/ the Django Framework.
+- 🌱 I’m currently learning blockchain programming w/ py and A.I Engineering.
+- 💞️ I’m looking to collaborate on Interesting projects.
 - 📫 How to reach me conrad@cybergrains.com
 
 <!---
