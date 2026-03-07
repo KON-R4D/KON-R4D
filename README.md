@@ -10,11 +10,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai)](https://skillicons.dev)
 
+<h2>Recent Commits:</h2>
 
 ![Conrad's Recent Contributions](https://github.pumbas.net/api/contributions/KON-R4D)
 
-<h2 align="left">Reach Out:</h2>
-<p align="left">
+<h2>Reach Out:</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/conrad-amai">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
