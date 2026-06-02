@@ -1,6 +1,6 @@
 <h2> &#128075;&#127997; Introduction:</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&pause=1000&width=435&lines=Hi%2C+my+name+is+Conrad+Amai.;I'm+a+Technical+Product+Manager;with+a+Computer+Science+background;and+years+of+experience+in+programing.;Welcome+to+my+Github+profile...!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&pause=1000&width=435&lines=Hi%2C+my+name+is+Conrad+Amai;I'm+a+Technical+Product+Manager;with+a+Computer+Science+background;and+years+of+experience+in+programing;Welcome+to+my+Github+profile...!!!)](https://git.io/typing-svg)
 
 <h2> &#128187; Programming:</h2>
 
